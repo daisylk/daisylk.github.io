@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Education\n\nPhD. Harvard\nMSc. Cambridge\n\n\n\nResearch Interests\n\nMachine learning\nData science"
   }
 ]

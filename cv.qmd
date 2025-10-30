@@ -1,0 +1,14 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+# Education
+
+* PhD. Harvard
+* MSc. Cambridge
+
+# Research Interests
+
+* Machine learning
+* Data science

@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "Daisy's webpage"
+  title: "Daisy Killingley"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: cv.qmd
+        text: CV
       - about.qmd
 
 format:
