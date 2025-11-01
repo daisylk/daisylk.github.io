@@ -5,8 +5,8 @@ format: html
 
 # Education
 
-* PhD. Harvard
-* MSc. Cambridge
+* BSc. Nottingham Trent University, Psychology
+* MSc. Nottingham Trent University, Behavioural Data Science
 
 # Research Interests
 
